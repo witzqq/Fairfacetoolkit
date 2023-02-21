@@ -3,7 +3,7 @@
 This scheme develops a fair face toolkit for fairness in the field of unstructured data-face recognition, provides a unified training framework for bias mitigation model training, and provides a test protocol for bias mitigation testing, so as to analyze and compare different methods and find appropriate bias mitigation schemes.
 At the same time, users can customize and develop new methods through the toolkit.
 ### The overall framework of the toolkit
-![image](overall framework.png)
+![image](overall_framework.png)
 ## How to use the tool
 ### Installation    
 You use conda to create a virtual environment to run this project.  
