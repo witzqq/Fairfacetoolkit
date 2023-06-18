@@ -1,4 +1,4 @@
-# Fair_Face_tool
+# Fairfacetoolkit
 ## tool introduction
 This scheme develops a fair face toolkit for fairness in the field of unstructured data-face recognition, provides a unified training framework for bias mitigation model training, and provides a test protocol for bias mitigation testing, so as to analyze and compare different methods and find appropriate bias mitigation schemes.
 At the same time, users can customize and develop new methods through the toolkit.
